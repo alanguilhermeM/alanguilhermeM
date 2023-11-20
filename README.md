@@ -3,11 +3,14 @@
 <br>
 - Descobri meu interesse por programação ainda na faculdade de Engenharia Mecânica e foi lá onde eu imprimi meu primeiro 'Hello World!'.
 <br>
-- Atualmente estou avançando no meu aprendizando em TYPESCRIPT.
+- Atualmente estou avançando no meu aprendizando em PYTHON
 <br>
 - Atualmente estou cursando na escola TRYBE para progamadores fullStack!
 <br>
 
+<h1>Contact-Me</h1>
+  <email>alanguilherme13@outlook.com</email>
+  <p>5532998443075</p>
 <h1>Stats</h1>
 <div>
 <a href="https://github.com/alanguilhermeM">
