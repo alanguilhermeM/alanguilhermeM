@@ -4,7 +4,7 @@
 - Descobri meu interesse por programação ainda na faculdade de Engenharia Mecânica e foi lá onde eu imprimi meu primeiro 'Hello World!'.
 <br>
 <strong>
-- Visite meu Portfólio:  https://belckmarketing.com.br/guilhermemansur-portfolio/](https://my-portfolio-virid-seven-64.vercel.app/
+- Visite meu Portfólio:  https://my-portfolio-virid-seven-64.vercel.app/
 </strong>
 <div>
 <a href="https://github.com/alanguilhermeM">
